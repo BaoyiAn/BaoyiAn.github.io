@@ -6,7 +6,7 @@
   "mainInfoColor": "",
   "canvasColor": "",
 
-  "leftPercentage": 30,
+  "leftPercentage": 40,
 
   "pageSize": 6,
   "summaryNum": 50,
@@ -78,7 +78,7 @@
     "id": "22742684",
     "auto": false,
     "style": {
-      "left": "60px",
+      "left": "80px",
       "top": "15px",
       "right": "",
       "bottom": ""
