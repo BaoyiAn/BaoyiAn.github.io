@@ -40,15 +40,15 @@
 
   "coverImage": {
     "images": {
-      "tags": "http://imglf2.nosdn.127.net/img/Yzdqa2tRRFRTNEpReTRuTFFucjNPVk5NNkRqVW4vOTB4Z3B4eUJEenQwL2h0Z2FkbWsrditRPT0.jpg?imageView&thumbnail=880x0&quality=96&stripmeta=0&type=jpg",
-      "home": "http://ww3.sinaimg.cn/mw690/b2b1bff9jw1f8sw000k46j20mj0gw77z.jpg",
-      "article": "http://imglf0.nosdn.127.net/img/OUhlS2V6aytkSnkyRW9FL0hFcVVLeC9jMCtqc0ZRcStjVERCL0pWdzlnZHZNeFZFZi9DQXlBPT0.jpg?imageView&thumbnail=880x0&quality=96&stripmeta=0&type=jpg",
+      "tags": "http://imgsrc.baidu.com/forum/pic/item/f636afc379310a55a7370d5ab74543a982261008.jpg",
+      "home": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486304546836&di=6d09a2aaee74335d388ec8f5814b9df0&imgtype=0&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fc8177f3e6709c93d344741169f3df8dcd000549d.jpg",
+      "article": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486304382767&di=677c13a4fc9380af0601b3c855672e32&imgtype=0&src=http%3A%2F%2Fimage73.360doc.com%2FDownloadImg%2F2014%2F06%2F0522%2F42345220_1.jpg",
       "search": "http://ww2.sinaimg.cn/mw690/b2b1bff9jw1f8tf00mm95j20sg0izah4.jpg",
       "notExist": "http://imglf1.nosdn.127.net/img/QmJDb3pZMGZVMzdOeTVFL1IrQ00zNUF0c3FRZ243N2FVRE9pZ1ZJQjdYY2E4V0VCbW0rcStRPT0.jpg?imageView&thumbnail=1280x0&quality=96&stripmeta=0&type=jpg",
       "posts": [
-        "http://ww2.sinaimg.cn/mw690/b2b1bff9jw1f8iyjsupqnj20zk0npjx2.jpg",
-        "http://ww4.sinaimg.cn/mw690/b2b1bff9jw1f7sfho5fh6j20hs0hs40f.jpg",
-        "http://ww4.sinaimg.cn/mw690/b2b1bff9jw1f86a2cf8xfj20mj0tmdv7.jpg"
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486304546840&di=bef95dbd1fcde85b9b809745f3a5d5fe&imgtype=0&src=http%3A%2F%2Fimage67.360doc.com%2FDownloadImg%2F2013%2F12%2F0321%2F37174641_29.jpg",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486304546831&di=c941a97c4af224aa8d054a9f65814a67&imgtype=0&src=http%3A%2F%2Fimg124.ph.126.net%2Fhb2ScfvYVUz4fEr2tAK2QA%3D%3D%2F3041900073313411387.jpg",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486304687338&di=b4cffc8f53fcd69664484cb1d370d800&imgtype=0&src=http%3A%2F%2Fpic2.jiu3000.com%2Fupload%2F2015%2F2%2F10%2F21%2F5306961313690769.jpg_600x888.jpg"
       ]
     },
     "articleCover": true
@@ -56,7 +56,7 @@
 
   "music": {
     "id": "22782025",
-    "auto": true,
+    "auto": false,
     "style": {
       "left": "80px",
       "top": "15px",
