@@ -1,9 +1,9 @@
 {
     "theme": "moka",
-    "title": "Joyce Nonsense",
-    "favicon": "/head.JPG",
+    "title": "ABY Blog",
+    "favicon": "/head.jpg",
     "author": "aby",
-    "description": "private Blog",
+    "description": "Nonsenses",
     "siteName": "site",
 
     "deploy": {

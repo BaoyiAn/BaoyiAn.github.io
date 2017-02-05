@@ -1,7 +1,7 @@
 {
-  "avatar": "/head.JPG",
-  "title": " Joyce Nonsense ",
-  "description": " Nonsense ",
+  "avatar": "/head.jpg",
+  "title": " ABY Blog ",
+  "description": " Nonsenses ",
 
   "mainInfoColor": "",
   "canvasColor": "",
@@ -16,32 +16,12 @@
 
   "home": {
     "title": "About Me",
-    "contentHtml": "<p>A coder hating coding! </p><p><img class='emoji' src='https://cdn.shopify.com/s/files/1/1061/1924/products/Upside-Down_Face_Emoji_4dbbbd80-eb60-4c91-9642-83368692e361_large.png?v=1458743633'/></p>"
+    "contentHtml": "<p>Blablablablabla~~</p><p><img class='emoji' src='http://emojipedia-us.s3.amazonaws.com/cache/08/84/088419f4d97c19762c29008c4a89bbf4.png'/></p>"
   },
   "projects": [
     {
-      "title": "I",
+      "title": "",
       "image": "",
-      "link": ""
-    },
-    {
-      "title": "want",
-      "image": "/upload/1471705339720.png",
-      "link": ""
-    },
-    {
-      "title": "to",
-      "image": "/upload/1471093544488.png",
-      "link": ""
-    },
-    {
-      "title": "Cry",
-      "image": "/images/md.png",
-      "link": ""
-    },
-    {
-      "title": "!",
-      "image": "/images/p7.png",
       "link": ""
     }
   ],
@@ -51,22 +31,22 @@
       "weibo": ""
     },
     {
-      "github": "https://github.com/BaoyiAn"
+      "github": "https://github.com/baoyian"
     },
     {
-      "envelope-o": "mailto:anbaoyi@gmail.com"
+      "envelope-o": "mailto:JoyceABY@163.com"
     }
   ],
 
   "coverImage": {
     "images": {
-      "tags": "http://image99.360doc.com/DownloadImg/2016/08/2206/78454358_3.jpg",
-      "home": "http://www.1tong.com/uploads/wallpaper/art/112-3-1920x1080.jpg",
-      "article": "http://www.soocang.com/uploadfile/2014/0508/20140508031358262.jpeg",
+      "tags": "http://imglf2.nosdn.127.net/img/Yzdqa2tRRFRTNEpReTRuTFFucjNPVk5NNkRqVW4vOTB4Z3B4eUJEenQwL2h0Z2FkbWsrditRPT0.jpg?imageView&thumbnail=880x0&quality=96&stripmeta=0&type=jpg",
+      "home": "http://ww3.sinaimg.cn/mw690/b2b1bff9jw1f8sw000k46j20mj0gw77z.jpg",
+      "article": "http://imglf0.nosdn.127.net/img/OUhlS2V6aytkSnkyRW9FL0hFcVVLeC9jMCtqc0ZRcStjVERCL0pWdzlnZHZNeFZFZi9DQXlBPT0.jpg?imageView&thumbnail=880x0&quality=96&stripmeta=0&type=jpg",
       "search": "http://ww2.sinaimg.cn/mw690/b2b1bff9jw1f8tf00mm95j20sg0izah4.jpg",
       "notExist": "http://imglf1.nosdn.127.net/img/QmJDb3pZMGZVMzdOeTVFL1IrQ00zNUF0c3FRZ243N2FVRE9pZ1ZJQjdYY2E4V0VCbW0rcStRPT0.jpg?imageView&thumbnail=1280x0&quality=96&stripmeta=0&type=jpg",
       "posts": [
-        "http://image99.360doc.com/DownloadImg/2016/08/2206/78454358_3.jpg",
+        "http://ww2.sinaimg.cn/mw690/b2b1bff9jw1f8iyjsupqnj20zk0npjx2.jpg",
         "http://ww4.sinaimg.cn/mw690/b2b1bff9jw1f7sfho5fh6j20hs0hs40f.jpg",
         "http://ww4.sinaimg.cn/mw690/b2b1bff9jw1f86a2cf8xfj20mj0tmdv7.jpg"
       ]
@@ -75,7 +55,7 @@
   },
 
   "music": {
-    "id": "22742684",
+    "id": "22782025",
     "auto": false,
     "style": {
       "left": "80px",
